@@ -18,7 +18,18 @@ A Flutter application for searching GitHub repositories using the GitHub API.
 
 ## 📱 Screenshots
 
-[Add screenshots here]
+## 📱 Screenshots
+
+<div align="center">
+    <img src="assests/screenshots/Landing.png" alt="Landing Page" width="250"/>
+    &nbsp; &nbsp; &nbsp; 
+    <img src="assests/screenshots/result.png" alt="Search Results" width="250"/>
+    &nbsp; &nbsp; &nbsp; 
+    <img src="assests/screenshots/search.png" alt="Detailed Search View" width="250"/>
+    <br/>
+    <br/>
+    <img src="assests/screenshots/inside result.png" alt="Inside Result Screen" width="250"/>
+</div>
 
 ## 🏗 Architecture
 
